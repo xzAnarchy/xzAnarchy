@@ -15,4 +15,4 @@
 
 Contactame:
 https://www.instagram.com/mendoza_13g/
-https://www.linkedin.com/jobs/search/?currentJobId=3284329086&keywords=Junior%20Front-End%20web&refresh=true&start=75
+https://www.linkedin.com/in/gabriel-mendoza-a1a077227/
