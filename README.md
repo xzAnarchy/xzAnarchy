@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! 👋, soy Gabriel! :D
 
 
 🔭 Actualmente estoy trabajando en varios proyectos simultaneos!
