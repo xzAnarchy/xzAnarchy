@@ -1,5 +1,7 @@
 ### Hola! 👋, soy Gabriel! :D
 
+##Soy una persona bastante curiosa en proceso de ser un FullStack Developer
+
 
 🔭 Actualmente estoy trabajando en varios proyectos simultaneos!
 
@@ -10,3 +12,5 @@
 📫 Como contactarme? mendozagabriel726@gmail.com
 
 ⚡ Dato curioso Eterno curioso, amante de aprender cosas nuevas siempre
+
+Contactame:
