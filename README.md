@@ -1,6 +1,6 @@
 ### Hola! 👋, soy Gabriel! :D
 
-##Soy una persona bastante curiosa en proceso de ser un FullStack Developer
+## Soy una persona bastante curiosa en proceso de ser un FullStack Developer
 
 
 🔭 Actualmente estoy trabajando en varios proyectos simultaneos!
